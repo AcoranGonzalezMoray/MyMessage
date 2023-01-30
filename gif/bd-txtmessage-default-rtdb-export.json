@@ -1,0 +1,66 @@
+{
+  "Users": {
+    "user1@gmailcom": {
+      "contacts": {
+        "USER": {
+          "id": 1675085419911,
+          "message": {
+            "noend": {
+              "id": 1675085419911,
+              "message": "ESTE ES EL COMIENZO DEL CHAT",
+              "order": 0,
+              "who": "user1@gmail.com"
+            }
+          },
+          "nombre": "Usuario1"
+        },
+        "user2@gmailcom": {
+          "id": 1675085537304,
+          "message": {
+            "noend": {
+              "id": 1675085574256,
+              "message": "ESTE ES EL COMIENZO DEL CHAT",
+              "order": 0,
+              "who": "user1@gmailcom"
+            }
+          },
+          "nombre": "user2@gmailcom"
+        }
+      },
+      "email": "user1@gmail.com",
+      "name": "Usuario1",
+      "uid": "ZCkyfzSspPSyldgGs1tdPNVyEpY2"
+    },
+    "user2@gmailcom": {
+      "contacts": {
+        "USER": {
+          "id": 1675085420545,
+          "message": {
+            "noend": {
+              "id": 1675085420545,
+              "message": "ESTE ES EL COMIENZO DEL CHAT",
+              "order": 0,
+              "who": "user2@gmail.com"
+            }
+          },
+          "nombre": "Usuario2"
+        },
+        "user1@gmailcom": {
+          "id": 1675085537305,
+          "message": {
+            "noend": {
+              "id": 1675085578631,
+              "message": "ESTE ES EL COMIENZO DEL CHAT",
+              "order": 0,
+              "who": "user2@gmailcom"
+            }
+          },
+          "nombre": "user1@gmailcom"
+        }
+      },
+      "email": "user2@gmail.com",
+      "name": "Usuario2",
+      "uid": "zHHqgwtBFoc9TJcyaWJWDfXwiv83"
+    }
+  }
+}
